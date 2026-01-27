@@ -3,8 +3,6 @@
 
 <p align="center">
   🎓 AI/ML @ SNS College of Technology, Coimbatore<br>
-  💻 MERN Stack Developer in Training @ NxtWave<br>
-  🌱 Open-source Contributor · Future Software Engineer
 </p>
 
 ---
