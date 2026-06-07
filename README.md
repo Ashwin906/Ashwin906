@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 3rd Year B.Tech student specializing in **Artificial Intelligence and Machine Learning**
+- 🎓 Final Year B.Tech student specializing in **Artificial Intelligence and Machine Learning**
 - 🧠 Currently building full-stack applications with **MERN Stack**
 - 🛠️ Passionate about web technologies, backend development, and solving real-world challenges
 - ✨ Recently began contributing to **open-source projects**
